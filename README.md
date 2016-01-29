@@ -1,6 +1,6 @@
 # Replication material 
 Abou-Chadi/Orlowski (2016): Moderate as Necessary. The Role of Electoral
-Competitiveness and Party Size in Explaining Parties' Policy Shifts. _Journal of
+Competitiveness and Party Size in Explaining Parties' Policy Shifts. _The Journal of
 Politics_.
 
 ## Abstract
